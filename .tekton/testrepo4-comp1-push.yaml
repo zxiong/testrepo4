@@ -336,7 +336,7 @@ spec:
         - name: name
           value: clair-scan
         - name: bundle
-          value: quay.io/zxiong/clair-scan:0.3.1
+          value: quay.io/zxiong/clair-scan:0.3.1@sha256:7d203761a1395231af623ac1c9152837f903cc0d6b528541769acad01fc2b5d0
         - name: kind
           value: task
         resolver: bundles
